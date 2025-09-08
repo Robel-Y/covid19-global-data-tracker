@@ -60,4 +60,14 @@ It tracks global COVID-19 cases, deaths, and vaccinations, performs exploratory 
 - Mortality and infection rates highlight differences in healthcare capacity and policies.  
 - Interactive visualizations make it easier to compare regions and understand trends.  
 
+---
+## COVID-19 Data Source
+
+This dataset is sourced from [Our World in Data](https://ourworldindata.org/covid-cases), which compiles COVID-19 data from various official sources. The data is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
+
+You can download the latest CSV data directly from this link:  
+[Download COVID-19 Data CSV](https://github.com/owid/covid-19-data/raw/master/public/data/owid-covid-data.csv)
+
+Please refer to the [OWID GitHub repository](https://github.com/owid/covid-19-data) for more details and updates.
+
 
